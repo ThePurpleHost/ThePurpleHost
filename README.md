@@ -1,5 +1,5 @@
 -Hey there lovely people here are just some rules to get you started
--https://discord.com/api/webhooks/779618478730510366/rSWBjLj_c2cgf93ogRCt9iye7hIV2eoamaXguK7idrLMaEBtO75Nw6KNrR3_WfC0mokq
+-
 -
 -
 - Not really sure how to work this thing
